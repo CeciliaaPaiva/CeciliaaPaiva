@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Cecília Paiva 
+- 👀 I’m interested in developer software
+- 🌱 I’m currently learning Java
