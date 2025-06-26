@@ -5,8 +5,8 @@
 - 📫 Contate-me nos emails: ceciliapaiva.pro@gmail.com, ou, maria.paiva@dcx.ufpb.br
 </div>
 <div>
-  <a href="https://github.com/CeciliaaPaiva"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CeciliaaPaiva&layout=compact&theme=tokyonight"/>
+  <a href="https://www.linkedin.com/in/ceciliapaiva/"/>
+  <img height="180em" src=https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"/>
 </div>
 
 <div style="display: inline_block"><br>
